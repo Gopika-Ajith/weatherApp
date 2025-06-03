@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AestheticWeatherApp</string>
+    <string name="city_name">City Name</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="temperature_example">25°C</string>
+    <string name="weather_icon_desc">Weather condition icon</string>
+    <string name="loading_weather">Loading weather...</string>
+    <string name="error_fetching_weather">Error fetching weather</string>
+
+    <string name="hint_enter_city">Enter city name</string>
+    <string name="button_get_weather">Get Weather</string>
+    <string name="text_enter_and_tap">Enter a city and tap Get Weather</string>
+</resources>
